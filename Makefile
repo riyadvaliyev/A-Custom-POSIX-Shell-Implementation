@@ -1,7 +1,3 @@
-##
-# CSCSHELL - A shell assignment by Demetres (dee) Kostas
-#            for CSC209 Winter 2024.
-
 CC := gcc
 CFLAGS += -Wall -std=gnu99
 DEBUG_CFLAGS := -DDEBUG -g
